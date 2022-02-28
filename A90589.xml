@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition of the gentry, ministers, and freeholders of the county of Flint, presented to His Majesty at York, August the fourth, 1642. With His Majesties most gracious answer thereunto. Also His Majesties speech to the gentlemen of York, on Thursday the fourth of August.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90589</idno>
+            <idno type="STC">Wing P1799</idno>
+            <idno type="STC">Thomason E111_3</idno>
+            <idno type="STC">ESTC R212781</idno>
+            <idno type="EEBO-CITATION">99871352</idno>
+            <idno type="PROQUEST">99871352</idno>
+            <idno type="VID">155997</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90589)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155997)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E111[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition of the gentry, ministers, and freeholders of the county of Flint, presented to His Majesty at York, August the fourth, 1642. With His Majesties most gracious answer thereunto. Also His Majesties speech to the gentlemen of York, on Thursday the fourth of August.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>[1], 5, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Norton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642. August 12.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pagination begins on verso of title page.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Flintshire (Wales) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155997:1" rendition="simple:additions"/>
+            <p>A PETITION Of the Gentry, Miniſters, and Freeholders of the County of FLINT, Preſented to His Majeſty at YORK, AUGUST the fourth, 1642.</p>
+            <p>With His Majeſties moſt gra<g ref="char:EOLhyphen"/>cious anſwer thereunto.</p>
+            <p>ALSO His Majeſties Speech to the Gentlemen of <hi>York,</hi> on Thurſday the fourth of AVGVST.</p>
+            <p>LONDON, Printed <hi>A. Norton.</hi> 1642.</p>
+            <p>
+               <hi>Auguſt</hi> 12.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:155997:2"/>
+            <head>To the Kings moſt Excellent Majeſtie. The humble Petition of the Gentry, Mini<g ref="char:EOLhyphen"/>ſters, and Free-holders, of the County of <hi>Flint.</hi>
+            </head>
+            <head type="sub">Preſented to His Majeſty at <hi>York,</hi> the fourth of <hi>Auguſt, 1642.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners doe with all due ſubmiſſion thankful<g ref="char:EOLhyphen"/>neſſe, and joy of Heart ac<g ref="char:EOLhyphen"/>knowledge the happineſs they have enjoyed of a long peace under your Gracious Govern<g ref="char:EOLhyphen"/>ment, and your goodneſs in yielding to a ready Redreſſe of ſuch grievances as have growne in that time of eaſe and ſecurity, and in enacting ſuch Lawes in
+<pb n="2" facs="tcp:155997:2"/>this Parliament as your Petitioners hope will pre<g ref="char:EOLhyphen"/>vent the like for the future.</p>
+            <p>They are further tenderly apprehenſive of Your Majeſties tranſcendent goodneſſe, in Your free condeſcending to give your People ſo full &amp; cleer an accompt of your Actions and intentions, and reſt throughly perſwaded of the ſincerity, and conſtancy of Your Majeſties Reſolution to Mayn<g ref="char:EOLhyphen"/>tayne the true Proteſtant Religion in it's Primitive purity, the Lawes of the Land in their genuine ſence, The juſt Priviledges, Freedome, and fre<g ref="char:EOLhyphen"/>quency of Parliaments, with the property and li<g ref="char:EOLhyphen"/>berty of the Subject thereupon depending, and Your Majeſties willingneſſe to joyne with Your great Councell, in granting or enacting any other good Laws, that may be for the publike Weal of Your people; Who, as they have ever flouriſhed and been moſt happy, and ſecure in all Acts and Ordinances, paſſed by the three Eſtates; And moſt peaceably governed, under the known Lawes of the Land.</p>
+            <p>So it is the humble prayer of us, Your Majeſties moſt Loyall Subjects (proſtrating at your Maje<g ref="char:EOLhyphen"/>ſties feet, our perſons, and eſtates) For protection, (according to your Oath) From thoſe dangers we ſhould be driven into, by being bound by any Rule, Order, or Ordinance; Whereunto Your Majeſty, together with both Houſes of Parlia<g ref="char:EOLhyphen"/>ment ſhall not aſſent.</p>
+            <p>We alſo further Supplicate Your Majeſty ſo to maintain us in that ancient &amp; neceſſary priviledge,
+<pb n="3" facs="tcp:155997:3"/>as not to ſuffer us to be governed, but by the known and eſtabliſhed Laws of the Land.</p>
+            <p>
+               <hi>And Your Petitioners as in duty, and by the Oaths of Allegiance and Supremacy they conceive themſelves bound, shall not onely pray for the preſervation of Your Majeſties Sacred Perſon, Honour, Eſtate, and Lawfull Prerogative, But ſhall be always ready to hazard their Lives and Fortunes, for the mayntenance and defence of the ſame, againſt all powers and perſons whatſoever.</hi>
+            </p>
+            <closer>
+               <signed>Subſcribed by the Hands, of the Knights, Gen<g ref="char:EOLhyphen"/>try, Juſtices of the peace, Miniſters and Free<g ref="char:EOLhyphen"/>holders, of the County of <hi>Flint.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="response">
+            <pb n="4" facs="tcp:155997:3"/>
+            <head>His Majeſties Anſwer to the Petition of the County of <hi>Flint.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majeſtie hath commanded me to return this Anſwer to this Petition, That His Majeſty is much pleaſed with the dutie and affection ex<g ref="char:EOLhyphen"/>preſſed by the petitioners, and with ſo evident a teſtimonie, that the grievances hee hath redreſſed, the Laws hee hath paſſed, and the Declarations hee hath made, have produced the effects for which they were intend<g ref="char:EOLhyphen"/>ed, The ſatisfaction, gratitude, and confidence of his good Subjects, which hee doubts not, but the whole courſe of his Government Will daily in<g ref="char:EOLhyphen"/>creaſe, That His Majeſty is no leſſe pleaſed to ſee them, ſo ſenſible of what hath and ever will beſt preſerve their happineſſe and ſecurity, and that therefore they deſire only to be governed by, that rule, which He is reſolved only to governe by the known and eſtabliſhed Laws of the Land, aſſuring them that according to his Oath, hee will always protect them from the invaſion of any other aſſu<g ref="char:EOLhyphen"/>med Arbitrary power whatſoever, as long as hee ſhall be able to protect himſelfe, being reſolved of nothing more, then to ſtand and fall together with the Law. And that hee will not expect they ſhould be any longer ready to expreſſe their duties to him by the hazzard of them ſelves and fortunes
+<pb n="5" facs="tcp:155997:4"/>for the preſervation of his Perſon, Honour, Eſtate, and lawfull Prerogative, againſt all powers and perſons whatſoever, then his Majeſty ſhall ever be mutually ready to diſcharge his duty towards them by the hazzard of himſelf and fortune for the preſervation and defence of the Religion and Laws eſtabliſhed, of the juſt priviledges and Free<g ref="char:EOLhyphen"/>dome of parliament, and of the liberty and pro<g ref="char:EOLhyphen"/>perty of his Subjects, againſt whomſoever they ſhall endeavor either to deſtroy or oppoſe them.</p>
+            <closer>
+               <signed>Falkland.</signed>
+               <dateline>
+                  <date>
+                     <hi>At the Court at</hi> York, <hi>Aug. the fourth</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="speech">
+            <head>His Majeſties ſpeech, to the Gentlemen of <hi>Yorkſhire,</hi> on Thurſday the fourth of <hi>Auguſt.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>WHen I directed that Summons ſhould be ſent out for your meeting here this day my principall end was, That I might give you thanks for the great forwardneſſe and expreſſions you have made of your affe<g ref="char:EOLhyphen"/>ctions to me ſince I came into this Countrey, and to aſſure you<g ref="char:punc">▪</g> That as the whole Kingdome hath great reaſon to va<g ref="char:EOLhyphen"/>lue you exceedingly for it, ſo I ſhall be very unſatified with my ſelf; till I have found ſome way to fix a mark of favour, and eſtimation upon this County, and this people, which may tell Poſterity how good Subjects you have been, and how much Gentlemen; and I am confident the memory of it will grow up with my Sons too, in a juſt acknowledge<g ref="char:EOLhyphen"/>ment.
+<pb facs="tcp:155997:4"/>This was the moſt I intended to ſay to you but there is an un<g ref="char:EOLunhyphen"/>quiet Spirit abroad, which every day throws in new accidents to di<g ref="char:EOLhyphen"/>ſturbe, and confound the publike Peace. How I was driven from <hi>London,</hi> when I choſe this place for my ſafety, is ſo notorious, that all men know it, who know any thing; with what ſtrange violence, and indignities I have bin purſued, ſince I came hither, needs no other E<g ref="char:EOLhyphen"/>vidence, then Sir <hi>Iohn Hothams</hi> behaviour at <hi>Hull,</hi> who now ar<g ref="char:EOLhyphen"/>rived at that inſolence, That he will not ſuffer his treaſon to be longer confined within thoſe Wals, but makes fallyes out of the Town, upon his fellow Subjects, drowns their Land, burnes and plunders their houſes, murthers, and with unheard of cruelty torments their per<g ref="char:EOLhyphen"/>ſons; And this with ſo much delight, That hee would not have the patience to wait, what Anſwer ſhould be ſent to my juſt demands, though in that reſpect I ingaged my ſelf to forbear to uſe any force, and kept my word; but choſe the night before that came, (as if hee well knew what Anſwer I was to receive) to act thoſe outrages.</p>
+            <p>You ſee the ſad effects of Feares and Jealouſies, the miſeries they have produced; No man can tel you the leaſt good they have brought forth or the leaſt evill they have prevented: What inconvenience and burthen my preſence hath bin here, what diſturbance it hath brought upon the publick, or grievance upon any private perſon, your ſelves are the beſt Judges; And what ever ſcandall ſome men have pleaſed to caſt upon the Cavaliers (which they intend ſhould reach all my Retinew, &amp; by degrees ſhall involve all Gentlemen) I am confident, there hath not bin any eminent diſorder or damage befaln any man, by any perſon of my Train, or under my protection,</p>
+            <p>I am ſure my directions have been very ſtrict in that point, and if they had not been obſerved, thinke I ſhould have heard of it by nee<g ref="char:EOLhyphen"/>rer complaints, then from <hi>London;</hi> I pray God the ſame care may be taken there: I am ſure it hath not been. And to give you the fulleſt teſtimony of my affection to you, and to the peace of this County, and to ſhew you that no provocation ſhall provoke me to make this place to be the ſeat of the war, I have for your ſakes, paſſed over the Conſiderations of Honour; and notwithſtanding the reproches eve<g ref="char:EOLhyphen"/>ry day laid on me, laid ho ſiege to that place, that they may not have the leaſt pretence of doing you miſchiefe, but reſolve, by Gods helpe to recover <hi>Hull</hi> ſome other way, for that I will ever ſit downe under ſo bold and unexcuſable a Treaſon no honeſt man can imagine. But it ſeems other men are not of my mind, but reſolve to make a War at your own doores, whatſoever you doe, or I ſuffer. To what pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>poſe elſe is their new Generall armed with an authority to kill and deſtroy all my good ſubjects; their levies of Horſe and Foot, ſome <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:155997:5"/>and the ſending ſo many new ſouldiers into <hi>Hull,</hi> when there is no approach made towards it, but to ſally out, and to commit Rapine, and by degrees to poure out an Army upon you: In this I muſt aske your advice, what you would doe for your ſelves, what you would have mee doe for you, you ſee how I am ſtript of my Navy at Sea, which is imployed againſt me, of my Forts and Townes at Land, which are filled with armed men to deſtroy me; my money and proviſions of my houſe taken from me, and all my ſubjects forbid and threatned if they come neere me, that may by famine or ſolita<g ref="char:EOLhyphen"/>rineſſe be compelled to yeeld to the moſt diſhonourable Propoſitions, and to put my ſelfe and Children into the hands of a few Malignant perſons, who have entred into a Combination to deſtroy us: And all this done under pretence of a truſt repoſed by the people. How farre you are from committing any ſuch truſt, moſt of the perſons truſted by you, and your owne expreſſions of duty to me, hath manifeſted to all the World; and how far the whole Kingdome is from avow<g ref="char:EOLhyphen"/>ing ſuch a truſt, hath already, in a great meaſure, and I doubt not will more every day appeare, by the profeſſions of every County: for I am wholly caſt upon the affections of my people, and have no hope but in the bleſſing and aſſiſtance of God, the juſtneſſe of my cauſe and the love of my Subjects, to recover what is taken from me and them, for I may juſtly ſay they are equall loſers with me.</p>
+            <p>Gentlemen, I deſire you to conſider what courſe is to be taken for your owne ſecurity from the excurſions from <hi>Hull,</hi> and the vio<g ref="char:EOLhyphen"/>lence which threattens you from thence: I will aſſiſt you any way you propoſe. Next, I deſire you, out of the publick Proviſion, or your private Store to furniſh me with ſuch a number of Armes (Muskets and Corſlets) as you may conveniently ſpare, which I do promiſe to ſee fully repaid to you: Theſe Arms I deſire may be ſpeedily delivered to the cuſtody of my Lord Major of <hi>Yorke,</hi> for my uſe, principally from thoſe parts, which by reaſon of their diſtance from <hi>Hull</hi> are leaſt ſubject to the fear of violence from thence.</p>
+            <p>And whoſoever ſhall ſo furniſh me ſhall be excuſed from their at<g ref="char:EOLhyphen"/>tendance and ſervice at Muſters, til their Arms ſhal be reſtored; which may wel be ſooner then I can promiſe, or you expect. I deſire nothing of you but what is neceſſary to be done for the preſervation of Gods true Religion, the Laws of the Land, the Liberty of the Subject, and the very being of this Kingdom of <hi>England:</hi> for tis too evident al theſe are at ſtake. For the compleating my Sons Regiment for the guard of my Perſon under the command of my Lord <hi>Cumberland,</hi> I refer it wholly to your ſelves, who have expreſſed ſuch forwardnes in it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
